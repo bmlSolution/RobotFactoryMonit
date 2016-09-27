@@ -1,0 +1,12 @@
+C:\Users\C17 Developer\Documents\Visual Studio 2015\Projects\BotFactory\Models\bin\Debug\Models.dll
+C:\Users\C17 Developer\Documents\Visual Studio 2015\Projects\BotFactory\Models\bin\Debug\Models.pdb
+C:\Users\C17 Developer\Documents\Visual Studio 2015\Projects\BotFactory\Models\obj\Debug\Models.dll
+C:\Users\C17 Developer\Documents\Visual Studio 2015\Projects\BotFactory\Models\obj\Debug\Models.pdb
+C:\Users\C17 Developer\Documents\Visual Studio 2015\Projects\BotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\C17 Developer\Documents\GitHub\Restart\RobotFactory\Models\bin\Debug\Models.dll
+C:\Users\C17 Developer\Documents\GitHub\Restart\RobotFactory\Models\bin\Debug\Models.pdb
+C:\Users\C17 Developer\Documents\GitHub\Restart\RobotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\C17 Developer\Documents\GitHub\Restart\RobotFactory\Models\obj\Debug\Models.dll
+C:\Users\C17 Developer\Documents\GitHub\Restart\RobotFactory\Models\obj\Debug\Models.pdb
+C:\Users\C17 Developer\Documents\GitHub\Restart\RobotFactory\Models\bin\Debug\Common.dll
+C:\Users\C17 Developer\Documents\GitHub\Restart\RobotFactory\Models\bin\Debug\Common.pdb
